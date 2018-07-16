@@ -14,13 +14,11 @@ public class PowerUpManager : MonoBehaviour {
     private float baseScorePerSecond;
     private int baseSpikeGenThreshold;
     private ObjectDestroyer[] spikes;
-    private GameManager gameManager;
 
 	// Use this for initialization
 	void Start () {
         scoreManager = FindObjectOfType<ScoreManager>();
         platformGenerator = FindObjectOfType<PlatformGenerator>();
-        gameManager = FindObjectOfType<GameManager>();
     }
 	
 	// Update is called once per frame
