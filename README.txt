@@ -1,5 +1,5 @@
 Created in Unity with C# scripts. Code is found in Platformer/Assets/Scripts
-To play on Windows / Linux / Mac, there is the Platformer.exe standalone 
+To play on Windows / Linux / Mac, there is the Platformer.exe standalone, but need to download the .dll, mono, platformer data
 To play on Android, there is the Platformer.apk app
 
 Free Art Assets from http://www.kenney.nl/assets/platformer-pack-redux
